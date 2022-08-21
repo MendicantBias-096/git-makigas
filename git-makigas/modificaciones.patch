@@ -1,0 +1,13 @@
+diff --git a/git-makigas/index.html b/git-makigas/index.html
+index f2ae4fd..fa6ece2 100644
+--- a/git-makigas/index.html
++++ b/git-makigas/index.html
+@@ -30,6 +30,8 @@
+ 
+     <p>Cambios que se iran para el Stassasash</p>
+ 
++    <p>Cambios para guardar en un archivo .patch</p>
++
+ 
+ </body>
+ 
