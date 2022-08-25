@@ -11,5 +11,7 @@ int main(int argc, char const *argv[])
 
     printf("Hola Mundo Con Error")
 
+    printf("Continuando pero con error anterior");
+
     return 0;
 }
