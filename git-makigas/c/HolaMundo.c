@@ -15,6 +15,8 @@ int main(int argc, char const *argv[])
 
     printf("Commit desde el Archivo Original de git");
 
+    printf("Cambios desde el Submodulo");
+
     printf("Hola Desde un Submodulo");
     
 
