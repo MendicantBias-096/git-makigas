@@ -13,5 +13,7 @@ int main(int argc, char const *argv[])
 
     printf("Continuando pero con error anterior");
 
+    printf("Commit desde el Archivo Original de git");
+
     return 0;
 }
