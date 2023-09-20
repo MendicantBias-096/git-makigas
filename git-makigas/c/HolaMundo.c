@@ -19,7 +19,9 @@ int main(int argc, char const *argv[])
 
     printf("Hola Desde un Submodulo");
 
-    printf("No puede ser, actualizamos este submodulo")
+    printf("No puede ser, actualizamos este submodulo");
+
+    printf("No puede ser, actualizamos este submodulo, desde el submodulo aparte");
     
 
     return 0;
